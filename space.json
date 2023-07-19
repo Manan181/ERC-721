@@ -1,0 +1,16 @@
+{
+  "name": "Spacebear Token",
+  "description": "Introducing the future. A Space Token. Floating in Space. Save them by getting this NFT.",
+  "image": "",
+  "external_url": "",
+  "attributes": [
+    {
+      "trait_type": "Artifact",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Genesis"
+    }
+  ]
+}
